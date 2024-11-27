@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=hackdocssaaflqvu5luvny4;AccountKey=nTcry5q6TqTz/+dbr9XbbQvRyx2EPMbe4bl++r76hHIQyxmR/CBLaWdGHh898mEDmJAUR1mjqmSe+ASteNBpgQ==;BlobEndpoint=https://hackdocssaaflqvu5luvny4.blob.core.windows.net/;FileEndpoint=https://hackdocssaaflqvu5luvny4.file.core.windows.net/;QueueEndpoint=https://hackdocssaaflqvu5luvny4.queue.core.windows.net/;TableEndpoint=https://hackdocssaaflqvu5luvny4.table.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DOCUMENTINTELLIGENCE_ENDPOINT": "https://hackdocs-di-aflqvu5luvny4.cognitiveservices.azure.com/",
+    "DOCUMENTINTELLIGENCE_API_KEY": "f7a95d75056a4a42a2734239dd73d482",
+    "STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=hackdocssaaflqvu5luvny4;AccountKey=nTcry5q6TqTz/+dbr9XbbQvRyx2EPMbe4bl++r76hHIQyxmR/CBLaWdGHh898mEDmJAUR1mjqmSe+ASteNBpgQ==;BlobEndpoint=https://hackdocssaaflqvu5luvny4.blob.core.windows.net/;FileEndpoint=https://hackdocssaaflqvu5luvny4.file.core.windows.net/;QueueEndpoint=https://hackdocssaaflqvu5luvny4.queue.core.windows.net/;TableEndpoint=https://hackdocssaaflqvu5luvny4.table.core.windows.net/",
+    "COSMOS_CONNECTION_STRING": "AccountEndpoint=https://hackdocs-cosmosdb-aflqvu5luvny4.documents.azure.com:443/;AccountKey=68kBsy6weU49AS0ODpMJ0v8qldyZ5aG9COmPxxLkjdvRsWCcsdPkvctQbo7AtFWZQ5rB5ENHbgAIACDbC0hPbg==;",
+    "AZURE_OPENAI_ENDPOINT": "https://francecentral.api.cognitive.microsoft.com/",
+    "AZURE_OPENAI_KEY": "2e18f48d3f3a4ddabc6c2e85b405b3fa",
+    "AZURE_OPENAI_MODEL": "gpt-4o"
+  }
+}
